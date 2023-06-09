@@ -2,6 +2,10 @@
 <h2>hosted link:<a href="https://randomdiegeneratorvaithi.on.drv.tw/www.randomdie.game/dicee.html">Click here to see the game</a></h2>
 <div class="headder">
 <h2 class="heading">Random Dice Generator</h2>
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src="">
 </div>
   <h3><b>How To Play</b></h3>
   <ol>
