@@ -3,7 +3,6 @@
 <div class="headder">
 <h2 class="heading">Random Dice Generator</h2>
 </div>
- <footer class="footer">
   <h3><b>How To Play</b></h3>
   <ol>
     <li><i>Click on the roll button to start the game</i></li>
@@ -11,4 +10,3 @@
     <li>according to the higest point. the winner will be selected</li>
     <li>happy rolling !!!</li>
   </ol>
-/footer>
