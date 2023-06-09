@@ -1,41 +1,8 @@
 # Random_die_Genertor_game
-
-<a href="https://randomdiegeneratorvaithi.on.drv.tw/www.randomdie.game/dicee.html">Click here to see the game</a> 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Dicee Game</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster" rel="stylesheet">
-    <script src="index.js" charset="utf-8"></script>
-  </head>
-  <body>
+<h2>hostd link</h2><a href="https://randomdiegeneratorvaithi.on.drv.tw/www.randomdie.game/dicee.html">Click here to see the game</a> 
 <div class="headder">
   <h2 class="heading">Random Dice Generator</h2>
 </div>
-    <div class="container">
-<div class="containerf">
-      <div class="dice">
-        <p class="player1" id="p1">Player 1<p/>
-        <img class="img1" src="images/dice6.png">
-      </div>
-
-      <div class="dice">
-        <p class="player2" id="p2">Player 2<p/>
-        <img class="img2" src="images/dice6.png">
-      </div>
-</div>
-
-<button type="submit" class="btn" onclick="rollup()">Click Here To Roll The Die</button>
-<div class="result">
-  <h1></h1>
-</div> 
-</div>
-    
-
-</body>
-
   <footer class="footer">
   <h3><b>How To Play</b></h3>
   <ol>
